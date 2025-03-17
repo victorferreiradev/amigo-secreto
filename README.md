@@ -35,7 +35,7 @@ Este projeto é um aplicativo web interativo para sorteios de **Amigo Secreto**.
 3. **Abra o arquivo `index.html` no navegador**.
 
 ## 🔥 Demonstração
-Você pode visualizar o projeto rodando [clique aqui.]([https://seu-usuario.github.io/amigo-secreto](https://victorferreiradev.github.io/amigo-secreto/))!
+Você pode visualizar o projeto rodando [clique aqui.](https://seu-usuario.github.io/amigo-secreto](https://victorferreiradev.github.io/amigo-secreto/)!
 
 ## 📜 Licença
 Este projeto é de código aberto e está sob a licença MIT. Sinta-se à vontade para contribuir!
